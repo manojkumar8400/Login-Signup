@@ -13,9 +13,9 @@ for i in range(2):
     else:
         signup={}
         print("please create your account")
-        name=input("Username  ")
-        email=input('Email   ')
-        passw=input("Password  ")
+        name=input("Enter Username  ")
+        email=input('Enter Email   ')
+        passw=input("Enter Password  ")
         cont=input("number  ")
         signup['name']=name
         signup['email']=email
